@@ -106,15 +106,15 @@ set wildmode=list:longest
 
 call plug#begin('~/.vim/plugged')
 
-  Plug 'dense-analysis/ale'
+Plug 'dense-analysis/ale'
 
-  Plug 'preservim/nerdtree'
+Plug 'preservim/nerdtree'
 
-  Plug 'ctrlpvim/ctrlp.vim'
+Plug 'ctrlpvim/ctrlp.vim'
 
-  Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline'
 
-  Plug 'tpope/vim-commentary'
+Plug 'tpope/vim-commentary'
 
 Plug 'itchyny/lightline.vim'
 
